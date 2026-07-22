@@ -22,5 +22,9 @@ one LED active at a time.
 tied to GND for free-running 0–9 count. Each Qx output drives an LED
 through a current-limiting resistor.
 
+## pinouts
+
 <img width="794" height="437" alt="image" src="https://github.com/user-attachments/assets/7cc00d18-23bd-4e76-aac9-369c10091168" />
 <img width="440" height="480" alt="image" src="https://github.com/user-attachments/assets/f79c7421-7ed7-4c57-ab0a-c99271ebbc08" />
+
+## Circuit pictures
