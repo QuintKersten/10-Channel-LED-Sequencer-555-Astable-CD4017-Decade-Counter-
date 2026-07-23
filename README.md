@@ -30,3 +30,5 @@ through a current-limiting resistor.
 ## Circuit 
 <img width="1080" height="720" alt="schematic_pot" src="https://github.com/user-attachments/assets/7a4f7a57-4beb-43d1-84f6-a46401df63c0" />
 <svg width="1080" height="720" viewBox="0 0 1080 720" xmlns="http://www.w3.org/2000/svg" font-family="monospace">
+
+## pictures
