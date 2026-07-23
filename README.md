@@ -32,3 +32,10 @@ through a current-limiting resistor.
 <svg width="1080" height="720" viewBox="0 0 1080 720" xmlns="http://www.w3.org/2000/svg" font-family="monospace">
 
 ## pictures
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/da4f51c7-ffa4-44b0-a6f7-5871a0be8558" />  
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/101b8a3e-1a31-481e-b77a-f8255ce87e88" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/71823241-1e2c-4216-9a7d-42e83b1d037d" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/0e96156c-3bdc-495e-b9a2-9947ac1754c1" />
+
+
+https://github.com/user-attachments/assets/1daed020-2bbb-45b4-8abc-e52f3bc1a27e
